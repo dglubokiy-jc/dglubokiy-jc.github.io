@@ -34,5 +34,5 @@ gems:
 # Menu
 pages_list:
   Home: '/'
-  Portfolio: '/portfolio'
+  Portfolio: '/projects/prechu'
   Contact: '/contact'
