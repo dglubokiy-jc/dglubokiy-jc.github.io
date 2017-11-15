@@ -30,3 +30,9 @@ github:
 gems:
   - jekyll-paginate
   - jekyll-gist
+
+# Menu
+pages_list:
+  Home: '/'
+  Portfolio: '/portfolio'
+  Contact: '/contact'
